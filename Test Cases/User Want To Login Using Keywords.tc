@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>New Test Case</name>
+   <name>User Want To Login Using Keywords</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>df399cdb-97e6-4f46-881f-5757895e05b0</testCaseGuid>
+   <testCaseGuid>829b2aa1-b0ef-4c2f-83c2-7d8f09535d73</testCaseGuid>
 </TestCaseEntity>
